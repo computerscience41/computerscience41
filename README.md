@@ -1,12 +1,45 @@
 ![Full-Stack Developer](https://media.licdn.com/dms/image/v2/D5616AQGiuvzcAU2ckg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732354540867?e=1737590400&v=beta&t=8FHwc0aoJnyrusu0j9fFRHbiEHLGG2sO29i1CPyV93k)
 
-<h1 align="center">Hi 👋, I'm Rifat</h1>
+<h1 align="center">Hi there👋 I'm Rifat</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Rifat;I+am+a+Full-Stack+Developer)](https://git.io/typing-svg)
+  
+</div>
+
 
 <img align = "right" alt = "coding" width = "400" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=computerscience41&label=Profile%20views&color=0e75b6&style=flat" alt="computerscience41" /> </p>
 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Node.Js-black?style=flat-square&logo=Node.js)
+
+- 🌐 &nbsp; 
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat-square&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+
+- 🛢 &nbsp; 
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
+
+- 🔧 &nbsp;
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+<br>
+
+<h3>🛠 Running Tech</h3>
 - 🔭 I’m currently Studying **Computer science and engineering**
 
 - 🌱 I’m currently learning **Python And Django**
@@ -15,22 +48,34 @@
 
 - ⚡ Fun fact **I am funny😊**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rakib-hasan-rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakib-hasan-rifat" height="30" width="40" /></a>
-<a href="https://fb.com/rakib.hasan.rifat.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakib.hasan.rifat.cse" height="30" width="40" /></a>
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=computerscience41&label=Profile%20views&color=0e75b6&style=flat" alt="computerscience41" /> </p>  
+  
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=computerscience41&theme=slateorange&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&currStreakNum=DDDB61"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+ <p align="center">
+  <a href="https://github.com/computerscience41">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=computerscience41&show_icons=true&theme=slateorange&count_private=true">
+  </a>
+  <a href="https://github.com/computerscience41">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=computerscience41&layout=compact&theme=slateorange&langs_count=8" />
+  </a>
+ </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=computerscience41&show_icons=true&locale=en&layout=compact" alt="computerscience41" /></p>
+<h3> 🤝🏻 Connect with Me </h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=computerscience41&show_icons=true&locale=en" alt="computerscience41" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=computerscience41&" alt="computerscience41" /></p>
-
-
+<p align="center">
+<a href="https://www.linkedin.com/in/rakib-hasan-rifat/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-Rakib%20Hasan%20Rifat-brightgreen?style=flat-square&logo=linkedin">
+</a>
+<a href="https://www.facebook.com/rakib.hasan.rifat.cse/"><img alt="Facebook" src="https://img.shields.io/badge/rakib.hasan.rifat.cse-facebook-blue?style=flat&logo=facebook"></a>
+<a href="mailto:rifat.cse.edu05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rifat.cse.edu05@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 
 

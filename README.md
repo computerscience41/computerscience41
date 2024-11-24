@@ -32,7 +32,6 @@
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/computerscience41)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=computerscience41)  
+
 

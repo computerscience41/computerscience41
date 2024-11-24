@@ -1,4 +1,5 @@
-![Full-Stack Developer](https://media.licdn.com/dms/image/v2/D5616AQGiuvzcAU2ckg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732354540867?e=1737590400&v=beta&t=8FHwc0aoJnyrusu0j9fFRHbiEHLGG2sO29i1CPyV93k)
+![Full-Stack Developer](https://media.licdn.com/dms/image/v2/D5616AQE0woerQIok8w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732433221484?e=1738195200&v=beta&t=sKQ4pD0M-iwRelIzyRJ-KFP-tWQZ80OZ9VyYE3QekXs)
+
 
 <h1 align="center">Hi there👋 I'm Rifat</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>

@@ -25,12 +25,12 @@
 - 🌐 &nbsp; 
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 - 🛢 &nbsp; 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white)
 
 - 🔧 &nbsp;
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
@@ -71,7 +71,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rakib-hasan-rifat/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-Rakib%20Hasan%20Rifat-brightgreen?style=flat-square&logo=linkedin">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-Rakib%20Hasan%20Rifat-dimgray?style=flat-square&logo=linkedin">
 </a>
 <a href="https://www.facebook.com/rakib.hasan.rifat.cse/"><img alt="Facebook" src="https://img.shields.io/badge/rakib.hasan.rifat.cse-facebook-blue?style=flat&logo=facebook"></a>
 <a href="mailto:rifat.cse.edu05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rifat.cse.edu05@gmail.com-blue?style=flat-square&logo=gmail"></a>
